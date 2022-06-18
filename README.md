@@ -8,7 +8,7 @@ Com Su Base de datos SQL y lo Nesesario Para el Funcionamiento
 
 <p style="text-align: center;">
 <img src="https://raw.githubusercontent.com/ipxxx999/Acortador_URL_PHP/main/logo.png](https://github.com/ipxxx999/Sistema-de-gesti-n-de-asistencia/blob/main/Sistema-de-gestion-de-asistencia-usando-PHP-y-MySQL.png?raw=true" 
-alt="Interfaz de selecci&oacute;n para permitir aplicaciones menos seguras" width="960" height="540" />
+alt="Interfaz de selecci&oacute;n para permitir aplicaciones menos seguras" width="450" height="960" />
 </p>
 </p>
 </p>
