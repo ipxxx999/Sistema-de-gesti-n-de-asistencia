@@ -1,4 +1,4 @@
-# Sistema de gestin de asistencia
+# Sistema de gestion de asistencia
 
 Sistema de gestión de asistencia usando PHP y MySQL
 
