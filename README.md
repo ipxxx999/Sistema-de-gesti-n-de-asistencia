@@ -11,3 +11,5 @@ Com Su Base de datos SQL y lo Nesesario Para el Funcionamiento
 </p><img src="https://github.com/ipxxx999/Sistema-de-gesti-n-de-asistencia/blob/main/Sistema-de-gestion-de-asistencia-usando-PHP-y-MySQL.png" alt="Interfaz de selecci&oacute;n para permitir aplicaciones menos seguras" width="960" height="540" />
 </p>
 </p>
+
+<p><h2 id="permitir-aplicaciones-menos-seguras-">SQL incluido </h2>
